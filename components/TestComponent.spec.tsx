@@ -10,6 +10,6 @@ describe('Test component', () => {
   });
 
   it('should do something', () => {
-    expect(1).toEqual(1);
+    expect(1).toEqual(2);
   });
 });
